@@ -1,0 +1,22 @@
+{
+  "name": "ethplorer-js",
+  "version": "1.0.0",
+  "description": "Ethplorer.io API for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "keywords": [
+    "ethereum",
+    "ethplorer"
+  ],
+  "author": "Guille",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
