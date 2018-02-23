@@ -1,4 +1,6 @@
 # ethplorer-js
+[![Build Status](https://travis-ci.org/guillelo11/ethplorer-js.svg?branch=master)](https://travis-ci.org/guillelo11/ethplorer-js)
+
 Simple ethplorer.io API for Node
 
 ## Features
